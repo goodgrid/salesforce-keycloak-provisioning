@@ -1,0 +1,12 @@
+{
+  "name": "salesforce-keycloak-provisioning",
+  "version": "1.0.0",
+  "description": "",
+  "main": "event-socket.js",
+  "type": "module",
+  "dependencies": {
+    "axios": "^1.9.0",
+    "cometd-nodejs-client": "^2.0.0",
+    "winston": "^3.17.0"
+  }
+}
